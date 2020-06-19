@@ -1,2 +1,2 @@
 # ChatApp
-This is the simple chat app. There are many features like in the profile section you can change your username, status and profile image. You can send message, emoji and image to another user. you are also able to delete these messages, emoji and images. you can also see another user details.
+This is the Chatting App. You can register or login your self to this app. You can chat with another person. You can send message, image or emoji to another person. You receive a notification when some one send you a message.
